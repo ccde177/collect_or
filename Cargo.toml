@@ -1,0 +1,9 @@
+[package]
+name = "collect_or"
+version = "0.1.0"
+authors = ["ccde177b5fb9b8c55078417b4c9fee <sammorow@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
